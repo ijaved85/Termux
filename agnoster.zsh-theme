@@ -95,7 +95,7 @@ prompt_end() {
 
 prompt_context() {
   if [[ "$USERNAME" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
-    prompt_segment black default "%(!.%{%F{yellow}%}.)Smoke$creen"
+    prompt_segment black default "%(!.%{%F{yellow}%}.)Smoke\$creen"
   fi
 }
 
