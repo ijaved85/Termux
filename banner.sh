@@ -38,5 +38,5 @@ cd ~
 cd Termux
 cp agnoster.zsh-theme ~/.oh-my-zsh/themes
 cd ~
-rm -rf Termux
+rm -rf Termux termux-ohmyzsh
 echo "Thanks For Installing Please Restart The App"
