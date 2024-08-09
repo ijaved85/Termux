@@ -35,7 +35,7 @@ cd ~
 cd .oh-my-zsh/themes
 rm -rf agnoster.zsh-theme
 cd ~
-cd Lookup-Termux
+cd Termux
 cp agnoster.zsh-theme ~/.oh-my-zsh/themes
 #cd ~
 #rm -rf Lookup-Termux
